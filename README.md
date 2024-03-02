@@ -5,7 +5,7 @@ Programa feito por: Lucas Cabral - 5° semestre Ciência da Computação UFC
 @lucascamourao
 LinkedIn: https://www.linkedin.com/in/lucascamourao/
 
-Tema: Sistema de Controle de Voos
+Tema: Sistema de Controle de Voos (Python)
 
 Você está estagiando em uma empresa e foi encarregado de desenvolver uma parte de um sistema para controlar 
 os voos de uma companhia área. Você ficou responsável de implementar as seguintes funcionalidades: 
